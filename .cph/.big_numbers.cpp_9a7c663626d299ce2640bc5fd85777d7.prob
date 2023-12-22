@@ -1,0 +1,1 @@
+{"name":"Local: big_numbers","url":"d:\\projects\\lib_for_big_numbers\\big_numbers.cpp","tests":[{"id":1695458236291,"input":"99 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\projects\\lib_for_big_numbers\\big_numbers.cpp","group":"local","local":true}
